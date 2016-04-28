@@ -16,6 +16,19 @@ How to contribute?
 1. The admins will review your code and may optionally request conformance, functional or other changes. Work with them to resolve any issues.
 1. Upon acceptance, your code will be merged into the master branch and will become available for all.
 
+Dont See Your Project Here?
+===========================
+1. Your project must have a description- please make it clear enough for someone to understand given Cisco's broad product portfolio
+1. Your project must have a license and a license.md file.
+2. Your project must have a Readme.md file - please ensure your readme provides enough detials to get a user started with the project or pointed in the right direction quickly and link to other relevant projects, wikis, or public documenation
+3. Your project must have activity within the last 90 days
+4. Your project can't be a fork
+5. Your project must be in the list of Cisco Organizations below
+
+If your project meets these criteria and is still not present please conact (INSERT CONTACT DETAILS)
+
+To add a project to the organizations below please submit a pull request to (INSERT LINK TO ORG FILE)
+
 List of Cisco Organizations on GitHub
 =========================================
 
